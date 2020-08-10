@@ -1,6 +1,6 @@
 {
   "name": "@e-group/ckeditor5-build-eds",
-  "version": "15.0.9",
+  "version": "15.0.10",
   "description": "The eds editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
     "ckeditor5-build",
